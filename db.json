@@ -1,10 +1,14 @@
 [
   {
-    "brand": "Acer",
-    "model": "Iconia Talk S",
+    "id": 1,
+    "title": "Post 1"
   },
   {
-    "brand": "Acer",
-    "model": "Liquid Z6 Plus",
+    "id": 2,
+    "title": "Post 2"
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
   }
 ]
